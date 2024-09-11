@@ -16,7 +16,7 @@ On this page, though, let me show you a few of my interests. <br><br><br>
 <p>My Favorite Animal - Emperor Penguin</p><br><br><br>
 
 <img alt="Bruno Mars" src="https://upload.wikimedia.org/wikipedia/en/0/04/Bruno_Mars_-_That%27s_What_I_Like.png" width="200" height="200">
-<p>My Favorite Celebrity - Bruno Mars</p>
+<p>My Favorite Celebrity - Bruno Mars 😍</p>
 
 
 
