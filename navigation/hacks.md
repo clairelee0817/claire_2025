@@ -13,7 +13,7 @@ permalink: /hacks/
     </button></a>
     <br><br>
 
-<a href="{{site.baseurl}}/cookiecutter/"
+<a href="{{site.baseurl}}/cookieclicker/"
    style="display: inline-block; background-color: rgb(260, 200, 200); color: white; padding: 20px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; border: none;">
     <button style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; padding: 0; margin: 0;">
         Cookie Cutter
