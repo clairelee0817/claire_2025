@@ -7,10 +7,7 @@ hide: true
 
 <div>
 
-
-In this website, the viewer will be taken around on a tour of my CSP journey and all the content that I have included so far. It also showcases the process that I took in order to obtain such details.<br><br><br>
-
-<a href="https://clairelee0817.github.io/claire_2025/devops/github/pages/play"
+<a href="{{site.baseurl}}/incorporatingemojis/"
    style="display: inline-block; background-color: rgb(260, 200, 200); color: white; padding: 20px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; border: none;">
     <button style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; padding: 0; margin: 0;">
         Incorporating Emojis
