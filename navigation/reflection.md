@@ -8,6 +8,7 @@ permalink: /reflection/
 
 <div>
 
+### Sprint 1 ###
 
 <p><strong>Initial Goals</strong><br><br>
 1. I wanted to be able to be able to create a page with my many personal/general photos in order to make my About page more interesting and unique. <br><br>
