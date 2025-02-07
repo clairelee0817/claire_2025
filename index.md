@@ -5,42 +5,43 @@ description: Home Page
 hide: true
 ---
 
-<div>
+# Welcome to the Home Page!!!
 
-<a href="{{site.baseurl}}/incorporatingemojis/"
-   style="display: inline-block; background-color: #ec66a0;; color: white; padding: 20px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; border: none;">
-    <button style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; padding: 0; margin: 0;">
-        Incorporating Emojis
-    </button></a>
-    <br><br>
+<style>
+    .button {
+    display: inline-block;
+    background-color: #3a1c71;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none; 
+    }
+    .button button {
+    background: none;
+    border: none;
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+</style>
 
-<a href="{{site.baseurl}}/extractingdata/"
-   style="display: inline-block; background-color: #ec66a0;; color: white; padding: 20px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; border: none;">
-    <button style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; padding: 0; margin: 0;">
-        Extracting Data
-    </button></a>
-    <br><br>
+## Sprint Blogs/Reflections 
 
-<a href="{{site.baseurl}}/inspectingafunction/"
-   style="display: inline-block; background-color: #ec66a0; color: white; padding: 20px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; border: none;">
-    <button style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; padding: 0; margin: 0;">
-        Inspecting a Function
-    </button></a>
-    <br><br>
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
 
-<a href="{{site.baseurl}}/studentpanelreflection/"
-   style="display: inline-block; background-color: #ec66a0; color: white; padding: 20px 40px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px; border: none;">
-    <button style="background: none; border: none; color: inherit; font: inherit; cursor: pointer; padding: 0; margin: 0;">
-        Student Panel Reflection
-    </button></a>
+<a href="{{site.baseurl}}/sprint1review/" class="button">
+    <button>
+    Sprint 1 Review
+    </button>
+</a>
 
-
-
-
-
-
-
-
-
-
-
+<a href="{{site.baseurl}}/sprint1review/" class="button">
+    <button>
+    Sprint 1 Review
+    </button>
+</a>

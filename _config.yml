@@ -20,10 +20,9 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 header_pages:
-  - navigation/blog.md
-  - navigation/search.md
   - navigation/about.md
-  - README4YML.md
-  - navigation/frontend.md
-  - navigation/reflection.md
+  - navigation/blogs.md
   - navigation/hacks.md
+  - navigation/reflection.md
+  - README4YML.md
+  - navigation/search.md
