@@ -40,8 +40,48 @@ hide: true
     </button>
 </a>
 
-<a href="{{site.baseurl}}/sprint1review/" class="button">
+<a href="{{site.baseurl}}/sprint2review/" class="button">
     <button>
-    Sprint 1 Review
+    Sprint 2 Review
     </button>
 </a>
+
+<a href="{{site.baseurl}}/sprint3review/" class="button">
+    <button>
+    Sprint 3 Review
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/sprint4review/" class="button">
+    <button>
+    Sprint 4 Review
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/sprint5review/" class="button">
+    <button>
+    Sprint 5 Review
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/deploymentreview/" class="button">
+    <button>
+    Deployment with AWS Review
+    </button>
+</a>
+
+</div>
+<br>
+
+## Miscellaneous Blogs 
+
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<a href="{{site.baseurl}}/studentpanelreflection/" class="button">
+    <button>
+    Student Panel Reflection
+    </button>
+</a>
+
+</div>
+
