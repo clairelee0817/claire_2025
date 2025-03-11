@@ -76,6 +76,12 @@ hide: true
     </button>
 </a>
 
+<a href="{{site.baseurl}}/seedblog/" class="button">
+    <button>
+    Tri 2 Seed Blog
+    </button>
+</a>
+
 </div>
 <br>
 
