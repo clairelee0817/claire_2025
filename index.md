@@ -76,9 +76,9 @@ hide: true
     </button>
 </a>
 
-<a href="{{site.baseurl}}/seedblog/" class="button">
+<a href="{{site.baseurl}}/mcqblog/" class="button">
     <button>
-    Tri 3 Seed Blog
+    2018 MCQ Reflection
     </button>
 </a>
 
@@ -92,6 +92,12 @@ hide: true
 <a href="{{site.baseurl}}/studentpanelreflection/" class="button">
     <button>
     Student Panel Reflection
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/pprblog/" class="button">
+    <button>
+    PPR Blog
     </button>
 </a>
 
