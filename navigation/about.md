@@ -35,7 +35,7 @@ Hi, my name is Claire Lee. I'm 16 years old and I'm a junior. I am in Mr. Brown'
 <p>Yay! You reached the end!</p>
 
 <script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
+        repo="clairelee0817/claire_2025"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"
