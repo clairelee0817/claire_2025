@@ -103,3 +103,22 @@ hide: true
 
 </div>
 
+## Team Teach Blogs 
+
+**Big Idea 5** <br>
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<a href="{{site.baseurl}}/beneficialandharmfuleffectsofcomputing/" class="button">
+    <button>
+    Beneficial and Harmful Effects of Computing
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/digitaldivide/" class="button">
+    <button>
+    Digital Divide
+    </button>
+</a>
+
+</div>
+
