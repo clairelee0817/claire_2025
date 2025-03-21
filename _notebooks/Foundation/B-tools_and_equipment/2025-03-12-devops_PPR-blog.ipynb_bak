@@ -42,8 +42,6 @@
   },
   {
    "cell_type": "markdown",
-<<<<<<< HEAD
-=======
    "metadata": {
     "vscode": {
      "languageId": "plaintext"
@@ -61,7 +59,6 @@
   },
   {
    "cell_type": "markdown",
->>>>>>> b85c40a4f1696df81a979f03ad8cd09b26336e6b
    "metadata": {},
    "source": [
     "<script src=\"https://utteranc.es/client.js\"\n",
