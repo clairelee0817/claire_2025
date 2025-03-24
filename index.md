@@ -120,5 +120,11 @@ hide: true
     </button>
 </a>
 
+<a href="{{site.baseurl}}/understandingcomputerbias/" class="button">
+    <button>
+    Understanding Computer Bias
+    </button>
+</a>
+
 </div>
 
