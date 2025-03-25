@@ -126,5 +126,10 @@ hide: true
     </button>
 </a>
 
+<a href="{{site.baseurl}}/crowdsourcingincomputing/" class="button">
+    <button>
+    Crowdsourcing in Computing
+    </button>
+</a>
 </div>
 
