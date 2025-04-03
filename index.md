@@ -137,5 +137,11 @@ hide: true
     Legal and Ethical Concerns
     </button>
 </a>
+
+<a href="{{site.baseurl}}/safecomputing/" class="button">
+    <button>
+    Safe Computing
+    </button>
+</a>
 </div>
 
