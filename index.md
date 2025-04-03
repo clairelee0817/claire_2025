@@ -131,5 +131,11 @@ hide: true
     Crowdsourcing in Computing
     </button>
 </a>
+
+<a href="{{site.baseurl}}/legalandethicalconcerns/" class="button">
+    <button>
+    Legal and Ethical Concerns
+    </button>
+</a>
 </div>
 
