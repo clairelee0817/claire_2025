@@ -120,9 +120,15 @@ hide: true
     </button>
 </a>
 
-<a href="{{site.baseurl}}/legalandethicalconcerns/" class="button">
+<a href="{{site.baseurl}}/understandingcomputerbias/" class="button">
     <button>
-    Legal and Ethical Concerns
+    Understanding Computer Bias
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/crowdsourcingincomputing/" class="button">
+    <button>
+    Crowdsourcing in Computing
     </button>
 </a>
 </div>
