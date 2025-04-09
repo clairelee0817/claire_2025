@@ -105,6 +105,16 @@ hide: true
 
 ## Team Teach Blogs 
 
+**Big Idea 3** <br>
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<a href="{{site.baseurl}}/binarysearch/" class="button">
+    <button>
+    Binary Search
+    </button>
+</a>
+</div>
+
 **Big Idea 5** <br>
 <div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
 
