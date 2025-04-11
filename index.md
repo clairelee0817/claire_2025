@@ -118,6 +118,12 @@ hide: true
     Binary Search
     </button>
 </a>
+
+<a href="{{site.baseurl}}/listsandfilteringalgorithms/" class="button">
+    <button>
+    Lists and Filtering Algorithms
+    </button>
+</a>
 </div>
 
 **Big Idea 5** <br>
