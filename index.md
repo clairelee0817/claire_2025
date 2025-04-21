@@ -126,6 +126,16 @@ hide: true
 </a>
 </div>
 
+**Big Idea 4** <br>
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<a href="{{site.baseurl}}/simulationsandrandomalgorithms/" class="button">
+    <button>
+    Simulations and Random Algorithms
+    </button>
+</a>
+</div>
+
 **Big Idea 5** <br>
 <div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
 
