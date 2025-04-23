@@ -164,3 +164,20 @@ Finally, I've been working on my technical growth, using Roadmaps entailing less
     </button>
 </a>
 
+## MCQs
+
+Fianlly, I've also been improving using the MCQs I've been taking. 
+
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+<a href="{{site.baseurl}}/mcqblog/" class="button">
+    <button>
+    2018 Practice Exam MCQ blog
+    </button>
+</a>
+
+<a href="{{site.baseurl}}/2021mcqblog/" class="button">
+    <button>
+    2021 Practice Exam MCQ blog
+    </button>
+</a>
+</div>
