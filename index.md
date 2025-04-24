@@ -135,6 +135,12 @@ hide: true
     Big O
     </button>
 </a>
+
+<a href="{{site.baseurl}}/undecidableproblemsandgraphs&heuretics/" class="button">
+    <button>
+    Undecidable Problems and Graphs & Heuretics
+    </button>
+</a>
 </div>
 
 **Big Idea 4** <br>
