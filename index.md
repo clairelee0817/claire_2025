@@ -151,6 +151,12 @@ hide: true
     Simulations and Random Algorithms
     </button>
 </a>
+
+<a href="{{site.baseurl}}/imagesbase64/" class="button">
+    <button>
+    Images, Base64, and Color Codes
+    </button>
+</a>
 </div>
 
 **Big Idea 5** <br>
