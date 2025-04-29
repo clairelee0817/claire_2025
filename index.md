@@ -115,6 +115,16 @@ hide: true
 
 ## Team Teach Blogs 
 
+**Big Idea 2** <br>
+<div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
+
+<a href="{{site.baseurl}}/imagesbase64/" class="button">
+    <button>
+    Images, Base64, and Color Codes
+    </button>
+</a>
+</div>
+
 **Big Idea 3** <br>
 <div style="display: flex; justify-content: flex-start; gap: 20px; flex-wrap: wrap;">
 
@@ -149,12 +159,6 @@ hide: true
 <a href="{{site.baseurl}}/simulationsandrandomalgorithms/" class="button">
     <button>
     Simulations and Random Algorithms
-    </button>
-</a>
-
-<a href="{{site.baseurl}}/imagesbase64/" class="button">
-    <button>
-    Images, Base64, and Color Codes
     </button>
 </a>
 </div>
