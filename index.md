@@ -151,6 +151,12 @@ hide: true
     Undecidable Problems and Graphs & Heuretics
     </button>
 </a>
+
+<a href="{{site.baseurl}}/binarymath/" class="button">
+    <button>
+    Binary Base 2 Math
+    </button>
+</a>
 </div>
 
 **Big Idea 4** <br>
