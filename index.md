@@ -87,6 +87,12 @@ hide: true
     2021 MCQ Reflection
     </button>
 </a>
+
+<a href="{{site.baseurl}}/ctefair/" class="button">
+    <button>
+    CTE Fair Reflection
+    </button>
+</a>
 </div>
 <br>
 
